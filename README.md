@@ -1,2 +1,4 @@
 NAM NAM
-Protože jsem to dostal za úkol.
+
+
+Dostal jsem to za úkol
